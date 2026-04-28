@@ -1,7 +1,5 @@
 # THRED
 
-# THRED
-
 **THRED** is a visual-first note-taking and planning app that lets you connect ideas as nodes in an interactive 3D graph, organize them with tags and branches, and turn them into actionable tasks with reminders.
 
 ---
